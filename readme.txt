@@ -7,7 +7,7 @@ To install using git, type this command in the root of your Moodle install
 Then add /local/codechecker to your git ignore.
 
 Alternatively, download the zip from
-    <a href="https://github.com/Beedell/moodle-report_configcopy/zipball/master">https://github.com/Beedell/moodle-report_configcopy/zipball/master</a>
+    https://github.com/Beedell/moodle-report_configcopy/zipball/master
 unzip it into the local folder, and then rename the new folder to codechecker.
 
 After you have installed this local plugin , you should see a new option 
